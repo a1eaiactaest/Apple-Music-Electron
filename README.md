@@ -1,10 +1,13 @@
 # Apple-Music-Electron
 Unofficial Apple Music application for Windows, Linux, and macOS without having to install iTunes or use the incredibly bloated web application through a browser.
 
+[![Gitpod Friendly](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/)
+
+
 ![alt text](https://i.imgur.com/liNf6WL.png "Preview Image as of v1.5.1")
 Preview Image as of v1.5.1
 
-![alt text](https://i.imgur.com/9BMDgI0.png "Discord RPC 1.5.1")
+![alt text](https://i.imgur.com/zpVi3d6.png "Discord RPC 1.5.5")
 
 Discord RPC is currently done and now included as of v1.5.0
 
