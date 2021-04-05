@@ -1,7 +1,8 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cryptofyre/Apple-Music-Electron)
-
 # Apple-Music-Electron
 Unofficial Apple Music application for Windows, Linux, and macOS without having to install iTunes or use the incredibly bloated web application through a browser.
+
+[![Gitpod Friendly](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/)
+
 
 ![alt text](https://i.imgur.com/liNf6WL.png "Preview Image as of v1.5.1")
 Preview Image as of v1.5.1
